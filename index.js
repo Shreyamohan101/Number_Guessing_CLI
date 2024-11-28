@@ -33,7 +33,9 @@ for(let i = 0; i < dict[chances]; i++) {
     });
 
     if(guess == a){
-        console.log(`Congratulations! You guessed the correct number in ${i + 1} attempts.`)
+        figlet("YOU WON!", function (err, data) {
+            console.log(data);
+          });
         break;
     }
     else if(guess < a) console.log(`Incorrect! The number is greater than ${guess}.`);
