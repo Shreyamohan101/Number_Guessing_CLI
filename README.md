@@ -1,10 +1,10 @@
-Number Guessing Game :)
+### **Number Guessing Game :)**
 
 Welcome to the Number Guessing Game, where you can test your skills by guessing a randomly chosen number between 1 and 100. Select a difficulty level and try your luck!
-### **Project URL**
+Project URL
   [PROJECT](https://roadmap.sh/projects/number-guessing-game)
 
-Features
+Features -
 Three difficulty levels: Easy, Medium, and Hard.
 Interactive gameplay powered by inquirer.
 Provides hints after incorrect guesses.
@@ -20,7 +20,8 @@ Prerequisites -
 1.Install Node.js (version 14 or above).
 2.Install npm or yarn (comes bundled with Node.js).
 
-Steps__________
+Steps - 
+
 1.Clone the repository:
 git clone https://github.com/Shreyamohan101/Number_Guessing_CLI.git 
 
