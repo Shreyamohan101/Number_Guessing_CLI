@@ -22,16 +22,16 @@ Prerequisites -
 
 Steps - 
 
-1.Clone the repository:
+1.###**Clone the repository:**
 git clone https://github.com/Shreyamohan101/Number_Guessing_CLI.git 
 
-2.Navigate to the project directory:
+2.###**Navigate to the project directory:**
 cd number-guessing-game
 
-3.Install dependencies:
+3.###**Install dependencies:**
 npm install figlet inquirer
 
-4.Run the project:
+4.###**Run the project:**
 node index.js
 
 
