@@ -1,7 +1,7 @@
 ### **Number Guessing Game :)**
 
 Welcome to the Number Guessing Game, where you can test your skills by guessing a randomly chosen number between 1 and 100. Select a difficulty level and try your luck!
-Project URL
+
   [PROJECT](https://roadmap.sh/projects/number-guessing-game)
 
 Features -
